@@ -1,0 +1,3 @@
+Mar 30 23:25:03 arseniy-VirtualBox systemd[1]: Reloading nginx.service - A high performance web server and a reverse proxy server...
+Mar 30 23:25:03 arseniy-VirtualBox nginx[4988]: 2026/03/30 23:25:03 [notice] 4988#4988: signal process started
+Mar 30 23:25:03 arseniy-VirtualBox systemd[1]: Reloaded nginx.service - A high performance web server and a reverse proxy server.
